@@ -30,7 +30,7 @@ Pour plus d'informations sur Wazuh SIEM, visitez [le site officiel de Wazuh](htt
 
 ## Auteurs
 
-- [Votre Nom](https://github.com/votre-utilisateur)
+- [Hezil Adem Yahia](https://github.com/ademoo077)
 
 ## License
 
