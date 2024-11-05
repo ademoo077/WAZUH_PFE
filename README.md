@@ -16,13 +16,6 @@ Ce dépôt contient les scripts, configurations et documentation utilisés pour 
 - `configs/`: Configurations de Wazuh et des agents.
 - `docs/`: Documentation du projet et des résultats obtenus.
 
-## Installation
-
-Pour déployer le projet localement, suivez les instructions suivantes :
-
-1. Clonez ce dépôt : `git clone https://github.com/votre-utilisateur/nom-du-projet.git`
-2. Naviguez dans le répertoire : `cd nom-du-projet`
-3. Suivez les instructions spécifiques dans `docs/installation.md`.
 
 ## Ressources Supplémentaires
 
